@@ -1,10 +1,10 @@
 # SQL Portfolio - Mohd Asif
 
-This repository contains my SQL practice work using MySQL. It includes database creation, SQL queries, and hands-on practice with different SQL concepts.
+This repository showcases SQL projects and query solutions using MySQL. It includes database design, data retrieval, and hands-on implementation of important SQL concepts.
 
-## Project 1: CompanyDB SQL Practice
+## Project 1: CompanyDB Database Project
 
-A sample CompanyDB database created to practice SQL queries on employees, departments, and projects.
+A relational database containing employee, department, and project records. This project demonstrates SQL queries and database operations across multiple related tables.
 
 ### Topics Covered
 - Database and Table Creation
@@ -19,14 +19,14 @@ A sample CompanyDB database created to practice SQL queries on employees, depart
 - CASE Statements
 - UNION
 
-## Tools Used
+## Tools & Technologies
 - MySQL
 - MySQL Workbench
 - SQL
 
 ## Project File
 
-[View CompanyDB SQL Practice](CompanyDB_SQL_Practice.sql)
+[View CompanyDB SQL Project](CompanyDB_SQL_Practice.sql)
 
 ## Author
 Mohd Asif
